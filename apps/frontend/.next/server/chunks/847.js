@@ -1,0 +1,1 @@
+"use strict";exports.id=847,exports.ids=[847],exports.modules={17847:a=>{a.exports=JSON.parse('{"home":"Trang chủ","explore":"Kh\xe1m ph\xe1","planner":"Lập kế hoạch","challenges":"Thử th\xe1ch","map":"Bản đồ","profile":"Hồ sơ","settings":"C\xe0i đặt","menu":"Menu"}')}};

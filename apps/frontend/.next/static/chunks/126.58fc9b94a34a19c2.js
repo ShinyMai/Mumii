@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[126],{5126:e=>{e.exports=JSON.parse('{"home":"Trang chủ","explore":"Kh\xe1m ph\xe1","planner":"Lập kế hoạch","challenges":"Thử th\xe1ch","map":"Bản đồ","profile":"Hồ sơ","settings":"C\xe0i đặt","menu":"Menu"}')}}]);

@@ -1,0 +1,94 @@
+{
+  "welcome": "Chào mừng đến với",
+  "loading": "Đang tải...",
+  "error": "Đã xảy ra lỗi",
+  "success": "Thành công",
+  "cancel": "Hủy",
+  "confirm": "Xác nhận",
+  "save": "Lưu",
+  "edit": "Chỉnh sửa",
+  "delete": "Xóa",
+  "search": "Tìm kiếm",
+  "backToHome": "Về Trang Chủ",
+  "auth": {
+    "signIn": "Đăng Nhập",
+    "signUp": "Đăng Ký",
+    "signOut": "Đăng Xuất",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "fullName": "Họ và tên",
+    "welcomeBack": "Chào mừng trở lại",
+    "createAccount": "Tạo tài khoản",
+    "signInToAccount": "Đăng nhập vào tài khoản Mumii",
+    "joinMumii": "Tham gia Mumii và khám phá trải nghiệm ẩm thực tuyệt vời",
+    "noAccount": "Chưa có tài khoản?",
+    "alreadyHaveAccount": "Đã có tài khoản?",
+    "invalidCredentials": "Email hoặc mật khẩu không đúng",
+    "signInError": "Đã xảy ra lỗi khi đăng nhập",
+    "signUpError": "Đã xảy ra lỗi khi đăng ký",
+    "passwordMismatch": "Mật khẩu không khớp",
+    "passwordTooShort": "Mật khẩu phải có ít nhất 8 ký tự",
+    "signupSuccess": "Tạo tài khoản thành công! Bạn có thể đăng nhập ngay bây giờ."
+  },
+  "social": {
+    "share": "Chia sẻ",
+    "shareThis": "Chia sẻ",
+    "shareOnFacebook": "Chia sẻ trên Facebook",
+    "shareOnTwitter": "Chia sẻ trên Twitter",
+    "shareOnInstagram": "Chia sẻ trên Instagram",
+    "copyLink": "Sao chép liên kết",
+    "copied": "Đã sao chép!",
+    "instagramCopied": "Đã sao chép nội dung! Bạn có thể dán vào Instagram."
+  },
+  "offline": {
+    "message": "Bạn đang offline. Hiển thị nội dung đã lưu."
+  },
+  "favorites": {
+    "save": "Lưu",
+    "saved": "Đã lưu",
+    "removed": "Đã xóa khỏi yêu thích",
+    "added": "Đã thêm vào yêu thích"
+  },
+  "explore": {
+    "title": "Khám Phá Nhà Hàng",
+    "subtitle": "Tìm trải nghiệm ẩm thực hoàn hảo dựa trên tâm trạng và sở thích của bạn"
+  },
+  "searchSection": {
+    "placeholder": "Tìm nhà hàng, món ăn hoặc ẩm thực...",
+    "noResults": "Không tìm thấy nhà hàng nào",
+    "tryDifferent": "Thử thay đổi từ khóa tìm kiếm hoặc bộ lọc"
+  },
+  "filter": {
+    "filters": "Bộ lọc",
+    "mood": "Lọc theo tâm trạng"
+  },
+  "results": "kết quả",
+  "hiddenGem": "Điểm Ẩn",
+  "viewDetails": "Xem Chi Tiết",
+  "loadingMap": "Đang tải bản đồ...",
+  "goToMyLocation": "Đến vị trí của tôi",
+  "myLocation": "Vị Trí Của Tôi",
+  "mapLegend": "Chú Thích",
+  "restaurants": "Nhà Hàng",
+  "hiddenGems": "Điểm Ẩn",
+  "yourLocation": "Vị Trí Của Bạn",
+  "map": {
+    "title": "Bản Đồ Ẩm Thực Tương Tác",
+    "subtitle": "Khám phá những viên ngọc ẩm thực quanh bạn",
+    "nearbyRestaurants": "Nhà Hàng Gần Đây"
+  },
+  "sort": "Sắp xếp",
+  "back": "Quay lại",
+  "next": "Tiếp theo",
+  "previous": "Trước",
+  "close": "Đóng",
+  "open": "Mở",
+  "appName": "Mumii",
+  "tagline": "Khám Phá Ẩm Thực Địa Phương",
+  "heroDescription": "Ứng dụng lập kế hoạch du lịch ẩm thực thông minh với gợi ý theo tâm trạng, bản đồ tương tác và những thử thách thú vị",
+  "getStarted": "Bắt Đầu Hành Trình",
+  "learnMore": "Khám Phá Tính Năng",
+  "featuresTitle": "Tính Năng",
+  "featuresDescription": "Mọi thứ bạn cần cho cuộc phiêu lưu ẩm thực hoàn hảo"
+}

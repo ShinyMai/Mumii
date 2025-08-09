@@ -1,0 +1,94 @@
+{
+  "welcome": "Welcome to",
+  "loading": "Loading...",
+  "error": "An error occurred",
+  "success": "Success",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "save": "Save",
+  "edit": "Edit",
+  "delete": "Delete",
+  "search": "Search",
+  "backToHome": "Back to Home",
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "welcomeBack": "Welcome Back",
+    "createAccount": "Create Account",
+    "signInToAccount": "Sign in to your Mumii account",
+    "joinMumii": "Join Mumii and discover amazing food experiences",
+    "noAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "invalidCredentials": "Invalid email or password",
+    "signInError": "An error occurred during sign in",
+    "signUpError": "An error occurred during sign up",
+    "passwordMismatch": "Passwords do not match",
+    "passwordTooShort": "Password must be at least 8 characters",
+    "signupSuccess": "Account created successfully! You can now sign in with your credentials."
+  },
+  "social": {
+    "share": "Share",
+    "shareThis": "Share this",
+    "shareOnFacebook": "Share on Facebook",
+    "shareOnTwitter": "Share on Twitter",
+    "shareOnInstagram": "Share on Instagram",
+    "copyLink": "Copy Link",
+    "copied": "Copied!",
+    "instagramCopied": "Content copied! You can paste it in Instagram."
+  },
+  "offline": {
+    "message": "You are offline. Showing cached content."
+  },
+  "favorites": {
+    "save": "Save",
+    "saved": "Saved",
+    "removed": "Removed from favorites",
+    "added": "Added to favorites"
+  },
+  "explore": {
+    "title": "Discover Restaurants",
+    "subtitle": "Find the perfect dining experience based on your mood and preferences"
+  },
+  "searchSection": {
+    "placeholder": "Search restaurants, cuisines, or dishes...",
+    "noResults": "No restaurants found",
+    "tryDifferent": "Try adjusting your search or filters"
+  },
+  "filter": {
+    "filters": "Filters",
+    "mood": "Filter by Mood"
+  },
+  "results": "results",
+  "hiddenGem": "Hidden Gem",
+  "viewDetails": "View Details",
+  "loadingMap": "Loading map...",
+  "goToMyLocation": "Go to my location",
+  "myLocation": "My Location",
+  "mapLegend": "Legend",
+  "restaurants": "Restaurants",
+  "hiddenGems": "Hidden Gems",
+  "yourLocation": "Your Location",
+  "map": {
+    "title": "Interactive Food Map",
+    "subtitle": "Discover hidden culinary gems around you",
+    "nearbyRestaurants": "Nearby Restaurants"
+  },
+  "sort": "Sort",
+  "back": "Back",
+  "next": "Next",
+  "previous": "Previous",
+  "close": "Close",
+  "open": "Open",
+  "appName": "Mumii",
+  "tagline": "Discover Hidden Culinary Gems",
+  "heroDescription": "Smart food tourism planner with mood-based recommendations, interactive maps, and exciting challenges to explore local cuisine",
+  "getStarted": "Start Your Journey",
+  "learnMore": "Explore Features",
+  "featuresTitle": "Features",
+  "featuresDescription": "Everything you need for the perfect food adventure"
+}

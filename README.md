@@ -1,4 +1,160 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mumii Mono-repo
+
+A modern mobile-first Next.js application with internationalization support and microservices architecture.
+
+## 🏗️ Architecture
+
+```
+mumii/
+├── apps/
+│   └── frontend/          # Next.js frontend application
+├── services/
+│   └── api-service/       # Express.js API service
+└── package.json           # Root workspace configuration
+```
+
+## 🚀 Features
+
+### Frontend (Next.js)
+
+- ✅ **Mobile-first design** - Responsive layouts optimized for mobile devices
+- ✅ **Internationalization (i18n)** - Support for Vietnamese and English
+- ✅ **Modern UI components** - Built with Tailwind CSS and Lucide React icons
+- ✅ **TypeScript** - Full type safety across the application
+- ✅ **Optimized performance** - Next.js 15 with Turbopack
+
+### API Service (Express.js)
+
+- ✅ **RESTful API** - Express.js with TypeScript
+- ✅ **CORS enabled** - Configured for frontend integration
+- ✅ **Security headers** - Helmet.js for security
+- ✅ **Environment configuration** - Dotenv for configuration management
+
+## 🛠️ Development Setup
+
+### Prerequisites
+
+- Node.js 18+
+- npm 8+
+
+### Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone <repository-url>
+   cd mumii
+   ```
+
+2. **Install all dependencies**
+
+   ```bash
+   npm install
+   npm run install:all
+   ```
+
+3. **Set up environment variables**
+   ```bash
+   # For API service
+   cp services/api-service/.env.example services/api-service/.env
+   ```
+
+### 🚦 Running the Applications
+
+#### Frontend Development
+
+```bash
+# Start frontend only
+npm run dev:frontend
+# or
+npm run dev
+```
+
+Frontend will be available at: http://localhost:3000
+
+#### API Service Development
+
+```bash
+# Start API service only
+npm run dev:api
+```
+
+API service will be available at: http://localhost:3001
+
+#### Full Stack Development
+
+```bash
+# Terminal 1: Start API service
+npm run dev:api
+
+# Terminal 2: Start frontend
+npm run dev:frontend
+```
+
+## 📱 Mobile-First Design
+
+The application is built with a mobile-first approach:
+
+- **Responsive breakpoints**: `sm: 640px`, `md: 768px`, `lg: 1024px`, `xl: 1280px`
+- **Touch-friendly interactions**: Minimum 44px touch targets
+- **Mobile navigation**: Collapsible menu for small screens
+- **Optimized layouts**: Grid and flexbox layouts that adapt to screen size
+
+## 🌐 Internationalization
+
+The application supports multiple languages:
+
+- **English (en)** - Default language
+- **Vietnamese (vi)** - Secondary language
+
+### Adding New Languages
+
+1. Create locale files in `apps/frontend/src/locales/[lang]/`
+2. Add language to the supported languages list in `i18n.ts`
+3. Update the language selector component
+
+### Language Files Structure
+
+```
+src/locales/
+├── en/
+│   ├── common.json      # Common translations
+│   └── navigation.json  # Navigation translations
+└── vi/
+    ├── common.json
+    └── navigation.json
+```
+
+## 🧪 Available Scripts
+
+### Root Level
+
+- `npm run dev` - Start frontend development server
+- `npm run dev:frontend` - Start frontend only
+- `npm run dev:api` - Start API service only
+- `npm run build` - Build frontend for production
+
+### Frontend Specific
+
+- `npm run lint` - Run ESLint
+
+## 🔧 Technology Stack
+
+### Frontend
+
+- **Next.js 15** - React framework with App Router
+- **React 18** - UI library
+- **TypeScript** - Type safety
+- **Tailwind CSS v4** - Utility-first CSS
+- **Lucide React** - Icon library
+- **react-i18next** - Internationalization
+
+### API Service
+
+- **Express.js** - Web framework
+- **TypeScript** - Type safety
+- **Helmet** - Security middleware
+- **CORS** - Cross-origin resource sharing
 
 ## Getting Started
 

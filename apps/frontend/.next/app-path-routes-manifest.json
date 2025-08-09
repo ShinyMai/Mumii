@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/favicon.ico/route": "/favicon.ico",
+  "/auth/signup/page": "/auth/signup",
+  "/explore/page": "/explore",
+  "/challenges/page": "/challenges",
+  "/map/page": "/map",
+  "/planner/page": "/planner",
+  "/page": "/",
+  "/wallet/page": "/wallet",
+  "/settings/page": "/settings",
+  "/auth/signin/page": "/auth/signin"
+}
